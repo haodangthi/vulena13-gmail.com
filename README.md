@@ -3,7 +3,7 @@ This is the 3rd Homework
 This repo contains only the server side of my project for the test
 Instructions:
 npm install
-node index
+node index 
 
 
 
